@@ -19,6 +19,8 @@ jq22: http://www.jq22.com/myhome
 
 Design：http://huaban.com/ivy986355428/
 
+
+
 > ### 经历
 #### 2016.03 - 2017.09   杭州正大创新科技有限公司（杭州铁塔数据科技有限公司）  Web前端工程师
 
@@ -44,10 +46,14 @@ Design：http://huaban.com/ivy986355428/
 ***JOCO-集客网 :*** 是宁波市民建企业家协会帮扶大学生创业平台，通过APP和互联网的资源整合能力，设计充分建立了全国性大学生创业者的沟通、分享、合作、参与、指导的功能性平台的交互界面。
 
 
+
+
 > ### 技能评价  
 
 
 熟悉jquery，H5，html+css，了解bootstrap，easyUI，MUI，WEUI框架
+
+
 
 
 > ### 作品
@@ -62,6 +68,8 @@ Design：http://huaban.com/ivy986355428/
 
 
 更多请移步 ![github](https://github.com/ivybaby) ,或者![jq22](http://www.jq22.com/myhome)
+
+
 
 > ### 自我描述
 
