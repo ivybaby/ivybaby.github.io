@@ -51,7 +51,7 @@ Design：http://huaban.com/ivy986355428/
 > ### 技能评价  
 
 
-熟悉jquery，H5，html+css，了解bootstrap，easyUI，MUI，WEUI框架，熟悉ps,ai等
+熟悉jquery，H5，html+css，了解bootstrap，easyUI，MUI，WEUI框架，熟悉ps,ai等，了解node.js和vue.js
 
 
 
